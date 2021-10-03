@@ -79,7 +79,7 @@ main > .tagline {
   font-size: 1.0rem;
 }
 button:hover{
-  border-size : 2px;
+  border-size : 4px;
   border-color :#FFFFFF;
 }
 
