@@ -78,7 +78,8 @@ main > .tagline {
   border-radius: 10px;
   font-size: 1.0rem;
 }
-.theme_div.hover{
+.theme_div:hover{
   border-size : 2px;
   border-color :#FFFFFF;
 }
+
