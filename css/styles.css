@@ -44,7 +44,7 @@ main {
 }
 
 .new{
-  font-weight:700;
+  font-weight:500;
  font-family:sans-serif;
   padding:50px;
 }
@@ -64,9 +64,7 @@ main > .tagline {
   padding: 10px;
 }
 
-.icon-social i:hover{
-  font-size:5em;
-}
+
 .devto {
   margin-bottom: -0.2rem;
 }
