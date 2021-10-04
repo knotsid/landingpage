@@ -58,9 +58,9 @@ main > .tagline {
 .icons-social i {
   padding: 10px;
 }
-.icons-social i:hover {
+
+a:hover{
   height:5px;
-  width:5px;
 }
 
 .devto {
