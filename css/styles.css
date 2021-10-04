@@ -58,6 +58,9 @@ main > .tagline {
 .icons-social i {
   padding: 10px;
 }
+.fab fa-twitter:hover{
+  height:3px;
+}
 
 .devto {
   margin-bottom: -0.2rem;
@@ -77,9 +80,5 @@ main > .tagline {
   padding: 0.25rem 0.85rem;
   border-radius: 10px;
   font-size: 1.0rem;
-}
-button:hover{
-  border-size : 4px;
-  border-color :#FFFFFF;
 }
 
