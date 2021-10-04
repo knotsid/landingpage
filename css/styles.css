@@ -59,10 +59,9 @@ main > .tagline {
   padding: 10px;
 }
 
-button:hover{
-  background-colour:pink;
+.icon-social i:hover{
+  font-size:5em;
 }
-
 .devto {
   margin-bottom: -0.2rem;
 }
