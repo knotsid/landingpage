@@ -42,7 +42,9 @@ main {
   padding: 0 30px;
   text-align: center;
 }
-
+h{
+  padding:90px;
+}
 main > .intro {
   font-family: "Reem Kufi", sans-serif;
   font-size: 3.75em;
