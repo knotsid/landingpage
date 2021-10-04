@@ -59,8 +59,8 @@ main > .tagline {
   padding: 10px;
 }
 
-a:hover{
-  background-colour:white;
+button:hover{
+  background-colour:pink;
 }
 
 .devto {
