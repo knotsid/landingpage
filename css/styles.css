@@ -42,7 +42,10 @@ main {
   padding: 0 30px;
   text-align: center;
 }
-.theme_div h {
+.theme_div  {
+  padding:80px;
+}
+h{
   padding:100px;
 }
 main > .intro {
