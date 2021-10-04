@@ -42,8 +42,8 @@ main {
   padding: 0 30px;
   text-align: center;
 }
-h{
-  padding:90px;
+.theme_div {
+  padding:50px;
 }
 main > .intro {
   font-family: "Reem Kufi", sans-serif;
