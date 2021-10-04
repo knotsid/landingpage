@@ -44,8 +44,9 @@ main {
 }
 
 .new{
-  color:#FF0000;
-  font-weight:500;
+  color:#000000;
+  font-weight:700;
+  margin-bottom:30px;
   padding:50px;
 }
 main > .intro {
