@@ -43,8 +43,9 @@ main {
   text-align: center;
 }
 
-h{
-  padding:120px;
+.new{
+  color:#000000;
+  padding:50px;
 }
 main > .intro {
   font-family: "Reem Kufi", sans-serif;
