@@ -60,7 +60,7 @@ main > .tagline {
 }
 
 a:hover{
-  height:5px;
+  background-colour:white;
 }
 
 .devto {
