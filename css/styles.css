@@ -43,6 +43,11 @@ main {
   text-align: center;
 }
 
+.new{
+  font-weight:500;
+ font-family:sans-serif;
+  padding:50px;
+}
 main > .intro {
   font-family: "Reem Kufi", sans-serif;
   font-size: 3.75em;
@@ -58,6 +63,7 @@ main > .tagline {
 .icons-social i {
   padding: 10px;
 }
+
 
 .devto {
   margin-bottom: -0.2rem;
@@ -78,3 +84,4 @@ main > .tagline {
   border-radius: 10px;
   font-size: 1.0rem;
 }
+
