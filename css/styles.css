@@ -1,3 +1,5 @@
+
+
 /* Typography */
 
 html {
@@ -60,10 +62,6 @@ main > .tagline {
   font-weight: 100;
 }
 
-.icons-social i {
-  padding: 10px;
-}
-
 
 .devto {
   margin-bottom: -0.2rem;
@@ -83,5 +81,45 @@ main > .tagline {
   padding: 0.25rem 0.85rem;
   border-radius: 10px;
   font-size: 1.0rem;
+  margin-top: 44px;
 }
+.icons-social{
+  place-items: center;
+}
+.icons-social .button{
+  display: inline-block;
+  height: 60px;
+  width: 60px;
+  margin: 0px 5px ;
+  border-radius: 50px;
+  cursor: pointer;
+  box-shadow: 0px 10px 10px rgba(0 , 0 , 0 , 0.1);
+  transition: all 0.2s ease-in-out;
+  overflow: hidden;
 
+}
+.icons-social .button:hover{
+  width: 200px;
+}
+.icons-social .button .icon{
+  display: inline-block;
+  height: 60px;
+  width: 60px;
+  border-radius: 50px;
+  box-sizing: border-box;
+  line-height: 60px;
+
+}
+.icons-social .button .icon i{
+  font-size: 56px;
+  line-height: 60px;
+  
+
+}
+.icons-social .button span{
+  font-size: 20px;
+  font-weight:bold;
+  line-height: 60px;
+  margin-left: 10px;
+  
+}
