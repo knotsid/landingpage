@@ -1,3 +1,5 @@
-# landingpage
-Updates will be available in the future
-Live Version: https://knot-resume1.netlify.app/
+# Landing Page
+
+A simple landing page with all the social links and something special.
+
+change the theme of website with single click. **Change Theme button**
